@@ -1,9 +1,5 @@
 # qa-resources
 
-![QA](https://img.shields.io/badge/QA-Resources_&_Templates-1B5E96?style=flat)
-![Templates](https://img.shields.io/badge/Templates-5-43B02A?style=flat)
-![Checklists](https://img.shields.io/badge/Checklists-2-FF6C37?style=flat)
-
 > A curated collection of QA templates, checklists, and documentation resources for professional software testing.  
 > Built by [Dipali Pagire](https://github.com/Dipali-QA) | QA Engineer | Pune, India.
 
